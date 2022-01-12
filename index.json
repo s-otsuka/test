@@ -1,0 +1,7 @@
+print("Hello World")
+
+def helloworld
+    name = input("input youer name")
+    message = "Hello " + name + "!"
+    print(message)
+helloworld()
